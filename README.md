@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React.Js, Angular, and backend development**
 
-- 💬 Ask me about **HTML, CSS, JavaScript and basic React,Js**
+- 💬 Ask me about **HTML, CSS, JavaScript and React.Js**
 
 - ⚡ Fun fact **I wasn't always a coder, I've always been creative and I wish to explore more in the frontend world**
 
